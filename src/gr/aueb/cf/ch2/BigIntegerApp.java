@@ -6,7 +6,7 @@ import java.math.BigInteger;
  * Χρησιμοποιεί την κλάση BigInteger ώστε να μην
  * έχουμε υπερχείλιση (overflow).
  *
- * @author christosefthymiou 
+ * @author christosefthymiou
  */
 public class BigIntegerApp {
 
